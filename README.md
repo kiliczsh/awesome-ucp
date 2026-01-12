@@ -92,7 +92,8 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 
 ## Developer Tools
 
-> 🚧 Coming soon - Testing tools, validators, and mock servers
+- 🎖️🐍📇 [UCP Samples](https://github.com/Universal-Commerce-Protocol/samples) - Sample implementations including Python and Node.js merchant servers and client scripts
+- [UCP Demo Playground](https://ucp-demo.web.app) - Community-created playground demo built using Google's guide
 
 ## Learning Resources
 
